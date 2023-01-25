@@ -1,5 +1,5 @@
 ###  WELCOM TO TTCCHUB
-![](iCloud.png)
+
 
 Junior Full-Stack REACTJS Developer & Senior Graphic Designer Adobe Suite
 
@@ -10,9 +10,9 @@ Skills: REACT / JS / NextJS  / ExpressJS / MongoDB / MariaDB / PostgreSQL / AWS 
 - 📫 How to reach me: lyudikaynen@yahoo.com 
 
 
-![](iCloud.png)  height='40'
 
 
 
+[<img src='iCloud.png alt='website' height='40'>](https://theytheycallcall.tumblr.com/)  
 
 ![1](https://user-images.githubusercontent.com/79540594/214652998-066f2341-5b57-46b4-ad52-4c810717510a.jpg)
