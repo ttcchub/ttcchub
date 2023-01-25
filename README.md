@@ -11,8 +11,8 @@ Skills: REACT / JS / NextJS  / ExpressJS / MongoDB / MariaDB / PostgreSQL / AWS 
 
 
 
+[![github](/images/icon.png) alt='website' height='40'>](https://theytheycallcall.tumblr.com/)  
 
-
-[<img src='iCloud.png alt='website' height='40'>](https://theytheycallcall.tumblr.com/)  
+[<img src='/images/icon.png' alt='website' height='40'>](https://theytheycallcall.tumblr.com/)  
 
 ![1](https://user-images.githubusercontent.com/79540594/214652998-066f2341-5b57-46b4-ad52-4c810717510a.jpg)
