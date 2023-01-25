@@ -3,14 +3,14 @@
 
 Junior Full-Stack REACTJS Developer & Senior Graphic Designer Adobe Suite
 
-Skills: REACT / JS / NextJS  / ExpressJS / MongoDB / MariaDB / PostgreSQL / AWS  / Linux  / Bash / Raspberry Pi / Hak5 toys / 
+Skills: REACT / JS / NextJS  / ExpressJS / MongoDB / MariaDB / PostgreSQL / AWS  / Linux  / Bash / Raspberry Pi / Hak5 toys 
 
 - 🔭 I’m currently working on developing MayWap service 
 - 🌱 I’m currently learning JS and Solidity. Im Junior Developer BTW  
 - 📫 How to reach me: lyudikaynen@yahoo.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://theytheycallcall.tumblr.com/)  
+![](iCloud.png)  height='40'
 
 
 
