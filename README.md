@@ -13,7 +13,7 @@ Cloud lead to my designs portfolio also.  <br>
 [<img src='/iCloud.png' alt='website' height='40'>](https://theytheycallcall.tumblr.com/) <br>
 
 
-My HighLigh Projects: 
+My Mini Projects: 
 <br>
 ([Web Store ](https://gutta-test.vercel.app/))
 <br>
