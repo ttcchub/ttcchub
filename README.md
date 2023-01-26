@@ -14,13 +14,13 @@ Cloud lead to my designs portfolio also.  <br>
 
 My Mini Projects: 
 <br>
-([Web Store ](https://gutta-test.vercel.app/)) ㅤㅤㅤ ([Recipes Web App ](https://recipes-web-app-ten.vercel.app/))
+🧦 [Web Store ](https://gutta-test.vercel.app/) ㅤㅤㅤ 🍣 [Recipes Web App ](https://recipes-web-app-ten.vercel.app/)
 <br>
-([Speed Game](https://public.bc.fi/s2200198/speedGame/))ㅤㅤㅤ ([Snake Game](https://public.bc.fi/s2200198/snake/)) 
+🎮 [Speed Game](https://public.bc.fi/s2200198/speedGame/)ㅤㅤㅤ 🐍 [Snake Game](https://public.bc.fi/s2200198/snake/) 
 <br>
-([Insurance Calculator](https://public.bc.fi/s2200198/Insurance/))ㅤㅤㅤ ([Pizza Cart Calculator](https://public.bc.fi/s2200198/pizza2/pizza.html))
+⚕️ [Insurance Calculator](https://public.bc.fi/s2200198/Insurance/)ㅤㅤㅤ 🍕[Pizza Cart Calculator](https://public.bc.fi/s2200198/pizza2/pizza.html)
 <br>
-([Car Data collector ](https://public.bc.fi/s2200198/carDb/))ㅤㅤㅤ ([RBAC PANEL](https://github.com/ttcchub/RBAC---panel/tree/main/RBAC))ㅤㅤㅤ ([Global Health Center + Live Chat](https://github.com/ttcchub/health--recontr)
+🏎️ [Car Data collector ](https://public.bc.fi/s2200198/carDb/)ㅤㅤㅤ 🎛️ [RBAC PANEL](https://github.com/ttcchub/RBAC---panel/tree/main/RBAC)ㅤㅤㅤ 🩻 [Global Health Center + Live Chat](https://github.com/ttcchub/health--recontr)
 )
 <br>
 
