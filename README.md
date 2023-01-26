@@ -2,7 +2,7 @@
 
 I'm Junior Full-Stack Developer on REACT-JS  & Senior Graphic Designer on Adobe Suite 
 
-Skills: REACT / JS / NextJS  / ExpressJS / MongoDB / MariaDB / PostgreSQL / AWS  / Linux  / Bash / Raspberry Pi / Hak5 toys 
+Skills: REACT / JS / NextJS  / ExpressJS / MongoDB / MariaDB / PostgreSQL / AWS  / Linux  / Bash / Raspberry Pi / Hak5 toys / Stripe / Sanity / SocketIO 
 
 - 🔭 I’m currently working on developing MayWap web service & processes design's 
 - 🌱 I'mn exploaring & learning blackbox of JavaScript and also Solidity, since I'm Junior Developer.   
@@ -15,6 +15,8 @@ Cloud lead to my designs portfolio also.  <br>
 
 My HighLigh Projects: 
 <br>
+([Web Store ](https://gutta-test.vercel.app/))
+<br>
 ([SpeedGame](https://public.bc.fi/s2200198/speedGame/)) 
 <br>
 ([Car Data collector ](https://public.bc.fi/s2200198/carDb/))
@@ -23,6 +25,7 @@ My HighLigh Projects:
 <br>
 ([Pizza Cart Calculator](https://public.bc.fi/s2200198/pizza2/pizza.html))
 <br>
+
 
 
 ![1](https://user-images.githubusercontent.com/79540594/214652998-066f2341-5b57-46b4-ad52-4c810717510a.jpg)
