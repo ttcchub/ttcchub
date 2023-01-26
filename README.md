@@ -8,7 +8,7 @@ Skills: REACT / JS / NextJS  / ExpressJS / MongoDB / MariaDB / PostgreSQL / AWS 
 - 🔭 Exploaring & learning blackbox of JavaScript and also Solidity, since I'm Junior Developer.   
 - 🪪 How to reach me: lyudikaynen@yahoo.com  /  nlyudikaynen@maywap.com
 
-[<img src='/iCloud.png' alt='website' top='5' height='25'>](https://theytheycallcall.tumblr.com/)<br> ㅤㅤㅤ Cloud lead to my designs portfolio also
+[<img src='/iCloud.png' alt='website' top='5' height='25'>](https://theytheycallcall.tumblr.com/)ㅤㅤㅤ Cloud lead to my designs portfolio also
 
 My Mini Projects: 
 <br>
