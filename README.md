@@ -19,7 +19,7 @@ My Mini Projects:
 ⚕️ [Insurance Calculator](https://public.bc.fi/s2200198/Insurance/)ㅤㅤㅤ 🍕[Pizza Cart Calculator](https://public.bc.fi/s2200198/pizza2/pizza.html)
 <br>
 🏎️ [Car Data collector ](https://public.bc.fi/s2200198/carDb/)ㅤㅤㅤ 🎛️ [RBAC PANEL](https://github.com/ttcchub/RBAC---panel/tree/main/RBAC)ㅤㅤㅤ 🩻 [Global Health Center + Live Chat](https://github.com/ttcchub/health--recontr)
-)
+
 <br>
 
 
