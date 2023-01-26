@@ -13,7 +13,10 @@ Cloud lead to my designs portfolio also.  <br>
 [<img src='/iCloud.png' alt='website' height='40'>](https://theytheycallcall.tumblr.com/) <br>
 
 
-My HighLigh Projects: ([SpeedGame](https://public.bc.fi/s2200198/speedGame/))
+My HighLigh Projects: 
+<br>
+([SpeedGame](https://public.bc.fi/s2200198/speedGame/)) 
+<br>
 ([Car Data collector ](https://public.bc.fi/s2200198/carDb/))
 
 
