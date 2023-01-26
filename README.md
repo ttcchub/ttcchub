@@ -15,7 +15,7 @@ Cloud lead to my designs portfolio also.  <br>
 
 My Mini Projects: 
 <br>
-([Web Store ](https://gutta-test.vercel.app/))
+([Web Store ](https://gutta-test.vercel.app/)) <br> ([Web Store ](https://gutta-test.vercel.app/))
 <br>
 ([SpeedGame](https://public.bc.fi/s2200198/speedGame/)) 
 <br>
