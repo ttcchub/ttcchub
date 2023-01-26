@@ -17,7 +17,7 @@ My Mini Projects:
 <br>
 ([Web Store ](https://gutta-test.vercel.app/)) ㅤㅤㅤ ([Web Store ](https://gutta-test.vercel.app/))
 <br>
-([SpeedGame](https://public.bc.fi/s2200198/speedGame/)) 
+([Speed Game](https://public.bc.fi/s2200198/speedGame/))ㅤㅤㅤ ([Snake Game](https://public.bc.fi/s2200198/snake/)) 
 <br>
 ([Car Data collector ](https://public.bc.fi/s2200198/carDb/))
 <br>
