@@ -1,4 +1,4 @@
-###  WELCOM 
+###  WELCOM TO MY PUBLIC CODE PORTFOLIO
 
 I'm Junior Full-Stack Developer on REACT-JS  & Senior Graphic Designer on Adobe Suite 
 
