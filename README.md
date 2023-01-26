@@ -1,6 +1,6 @@
-###  WELCOM TO TTCCHUB
+###  WELCOM 
 
-Junior Full-Stack REACT-JS Developer & Senior Graphic Designer Adobe Suite 
+I'm Junior Full-Stack Developer on REACT-JS  & Senior Graphic Designer on Adobe Suite 
 
 Skills: REACT / JS / NextJS  / ExpressJS / MongoDB / MariaDB / PostgreSQL / AWS  / Linux  / Bash / Raspberry Pi / Hak5 toys 
 
