@@ -2,7 +2,7 @@
 
 I'm Junior Full-Stack Developer on REACT-JS  & Senior Graphic Designer on Adobe Suite 
 
-Skills: REACT / JS / NextJS  / ExpressJS / MongoDB / MariaDB / PostgreSQL / AWS  / Linux  / Bash / Raspberry Pi / Hak5 toys / Stripe / Sanity / SocketIO 
+Skills: REACT / JS / NextJS  / ExpressJS / MongoDB / MariaDB / PostgreSQL / AWS / Jenkins / Bash / Raspberry Pi / Kali / Hak5 toys / Stripe / Sanity / SocketIO
 
 - 🔋 I’m currently working on developing MayWap web service & processes design's 
 - 🔭 Exploaring & learning blackbox of JavaScript and also Solidity, since I'm Junior Developer.   
