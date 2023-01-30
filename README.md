@@ -2,13 +2,16 @@
 
 I'm Junior Full-Stack Developer on REACT-JS  & Senior Graphic Designer on Adobe Suite 
 
-Skills: REACT / JS / NextJS  / ExpressJS / MongoDB / MariaDB / PostgreSQL / AWS / Jenkins / Bash / Raspberry Pi / Kali / Hak5 toys / Stripe / Sanity / SocketIO
+Front Skills: REACT / JS / NextJS / ExpressJS / Stripe 'gateway' / Sanity 'ccc'
+Back Skills:  MongoDB / MariaDB / PostgreSQL / AWS / Jenkins / Docker / SocketIO / WebHooks
 
+extra:  Bash / Raspberry Pi / Kali / Hak5 toys 
+ 
 - 🔋 I’m currently working on developing MayWap web service & processes design's 
 - 🔭 Exploaring & learning blackbox of JavaScript and also Solidity, since I'm Junior Developer.   
 - 🪪 How to reach me: lyudikaynen@yahoo.com  /  nlyudikaynen@maywap.com
 
-[<img src='/iCloud.png' alt='website' top='5' height='25'>](https://theytheycallcall.tumblr.com/)ㅤCloud lead to my Designs portfolio 
+[<img src='/iCloud.png' alt='website' top='5' height='25'>](https://theytheycallcall.tumblr.com/)ㅤㅤCloud lead to my Designs portfolio 
 
 My Mini Projects: 
 <br>
