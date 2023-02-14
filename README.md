@@ -11,7 +11,7 @@ extra:  Bash / Raspberry Pi / Kali / Hak5 toys
 - 🔭 Exploaring & learning blackbox of JavaScript and also Solidity, since I'm Junior Developer.   
 - 🪪 How to reach me: lyudikaynen@yahoo.com  /  nlyudikaynen@maywap.com
 
-[<img src='/iCloud.png' alt='website' top='5' height='25'>](https://theytheycallcall.tumblr.com/)ㅤㅤㅤㅤ ㅤCloud lead to my Designs portfolio 
+[<img src='/iCloud.png' alt='website' top='5' height='25'>](https://theytheycallcall.tumblr.com/)ㅤㅤㅤㅤCloud lead to my Designs portfolio 
 
 My Mini Projects: 
 <br>
