@@ -8,8 +8,6 @@ Back Skills:  MongoDB / MariaDB / PostgreSQL / AWS / Jenkins / Docker / SocketIO
 Cloud: Elastic Beanstalk / Cloud9 / CodePipeline / EC2
 extra:  Bash / Raspberry Pi / Kali / Hak5 toys 
  
-- 🔋 I’m currently working on developing MayWap web service & processes design's 
-- 🔭 Exploaring & learning blackbox of JavaScript and also Solidity, since I'm Junior Developer.   
 - 🪪 How to reach me: lyudikaynen@yahoo.com  /  nlyudikaynen@maywap.com
 
 [<img src='/iCloud.png' alt='website' top='5' height='25'>](https://theytheycallcall.tumblr.com/)ㅤㅤㅤㅤCloud lead to my Designs portfolio 
