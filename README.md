@@ -6,7 +6,7 @@ Front Skills: REACT / JS / TS / NextJS / ExpressJS / Stripe 'gateway' / Sanity '
 Back Skills:  MongoDB / MariaDB / PostgreSQL / AWS / Jenkins / Docker / SocketIO / WebHooks
 
 Cloud: Elastic Beanstalk / Cloud9 / CodePipeline / EC2
-extra:  Bash / Raspberry Pi / Kali / Hak5 toys 
+Extra:  Bash / Raspberry Pi / Kali / Hak5 toys 
  
 - 🪪 How to reach me: lyudikaynen@yahoo.com  /  nlyudikaynen@maywap.com
 
