@@ -13,8 +13,10 @@ Extra:  Bash / Raspberry Pi / Kali / Hak5 toys
 [<img src='/iCloud.png' alt='website' top='5' height='25'>](https://bespokedesign.tumblr.com)ㅤㅤㅤㅤCloud lead to my Designs portfolio 
 
 My Mini Projects: 
+
+UPCOMMING: Advanced CSS Product Card | 3D Model with phisics | WEB3 payment page 
 <br>
-🧦 [E-Store + STRIPE GATEWAY + CRYPTO GATEWAY ](https://main.d1h47rhwuovl0u.amplifyapp.com) ㅤㅤㅤ 🍣 [Recipes Web App ](https://recipes-web-app-ten.vercel.app/)
+🧦 [E-Store with STRIPE & CRYPTO GATEWAY's ](https://main.d1h47rhwuovl0u.amplifyapp.com) ㅤㅤㅤ 🍣 [Recipes Web App ](https://recipes-web-app-ten.vercel.app/)
 <br>
 🎮 [Speed Game](https://public.bc.fi/s2200198/speedGame/)ㅤㅤㅤ 🐍 [Snake Game](https://public.bc.fi/s2200198/snake/) 
 <br>
