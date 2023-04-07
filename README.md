@@ -14,7 +14,7 @@ Extra:  Bash / Raspberry Pi / Kali / Hak5 toys
 
 My Mini Projects: 
 
-UPCOMMING: Advanced CSS Product Card | 3D Model with phisics | WEB3 payment page 
+<b> <i> UPCOMMING:</i> Advanced CSS Product Card | 3D Model with phisics | WEB3 payment page | LinkShare File Transfer Chat </b>
 <br>
 🧦 [E-Store with STRIPE & CRYPTO GATEWAY's ](https://main.d1h47rhwuovl0u.amplifyapp.com) ㅤㅤㅤ 🍣 [Recipes Web App ](https://recipes-web-app-ten.vercel.app/)
 <br>
