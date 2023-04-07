@@ -17,11 +17,11 @@ Extra:  Bash / Raspberry Pi / Kali / Hak5 toys
 
 My Mini Projects: 
 
-<b> <i> UPCOMMING:</i> Advanced CSS Product Card | 3D Model with phisics | WEB3 payment page | LinkShare File Transfer Chat </b>
+<b> <i> UPCOMMING:</i> Advanced CSS Product Card | 3D Model with phisics | LinkShare File Transfer Chat </b>
 <br>
-🧦 [E-Store with STRIPE & CRYPTO GATEWAY's ](https://main.d1h47rhwuovl0u.amplifyapp.com) ㅤㅤㅤ 🍣 [Recipes Web App ](https://recipes-web-app-ten.vercel.app/)
+🧦 [E-Store with STRIPE & CRYPTO GATEWAY's ](https://main.d1h47rhwuovl0u.amplifyapp.com)ㅤㅤㅤ  🧾[WEB3 PayPage](https://github.com/ttcchub/web3-ecom-cryptogateway)
 <br>
-🎮 [Speed Game](https://public.bc.fi/s2200198/speedGame/)ㅤㅤㅤ 🐍 [Snake Game](https://public.bc.fi/s2200198/snake/) 
+🎮 [Speed Game](https://public.bc.fi/s2200198/speedGame/)ㅤㅤㅤ 🐍 [Snake Game](https://public.bc.fi/s2200198/snake/)ㅤㅤㅤ 🍣 [Recipes Web App ](https://recipes-web-app-ten.vercel.app/)
 <br>
 ⚕️ [Insurance Calculator](https://public.bc.fi/s2200198/Insurance/)ㅤㅤㅤ 🍕[Pizza Cart Calculator](https://public.bc.fi/s2200198/pizza2/pizza.html)
 <br>
