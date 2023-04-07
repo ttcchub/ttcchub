@@ -2,11 +2,14 @@
 
 I'm Junior Full-Stack Developer on REACT-JS  & Senior Graphic Designer on Adobe Suite 
 
-FROTN:    REACT / JS / TS / NextJS / ExpressJS / Stripe 'gateway' / Sanity 'ccc' / Ngrok 
+FRONT:    REACT JSX / TS / NextJS / ExpressJS / Stripe / Sanity 'ccc' / Ngrok 
 <br>
 BACK:     MongoDB / MariaDB / PostgreSQL / AWS / Jenkins / Docker / SocketIO / WebHooks
 
 Cloud: Elastic Beanstalk / Cloud9 / CodePipeline / EC2
+<br>
+WEB3: HardHat 
+<br>
 Extra:  Bash / Raspberry Pi / Kali / Hak5 toys 
  
 
