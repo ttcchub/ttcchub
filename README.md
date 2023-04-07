@@ -13,7 +13,7 @@ Extra:  Bash / Raspberry Pi / Kali / Hak5 toys
 
 My Mini Projects: 
 <br>
-🧦 [Web Store ](https://main.d1h47rhwuovl0u.amplifyapp.com) ㅤㅤㅤ 🍣 [Recipes Web App ](https://recipes-web-app-ten.vercel.app/)
+🧦 [E-Store + STRIPE GATEWAY + CRYPTO GATEWAY ](https://main.d1h47rhwuovl0u.amplifyapp.com) ㅤㅤㅤ 🍣 [Recipes Web App ](https://recipes-web-app-ten.vercel.app/)
 <br>
 🎮 [Speed Game](https://public.bc.fi/s2200198/speedGame/)ㅤㅤㅤ 🐍 [Snake Game](https://public.bc.fi/s2200198/snake/) 
 <br>
