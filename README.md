@@ -1,7 +1,3 @@
-###  WELCOM TO MY PUBLIC CODE PORTFOLIO
-
-I'm Junior Full-Stack Developer on REACT-JS  & Senior Graphic Designer on Adobe Suite 
-
 FRONT:    REACT JSX / TS / NextJS / ExpressJS / Stripe / Sanity 'ccc' / Ngrok 
 <br>
 BACK:     MongoDB / MariaDB / PostgreSQL / AWS / Jenkins / Docker / SocketIO / WebHooks
