@@ -15,8 +15,7 @@ My Mini Projects:
 
 <b> <i> UPCOMMING:</i> Advanced CSS Product Card | 3D Model with phisics | LinkShare File Transfer Chat </b>
 <br>
-🧦 [E-Store](https://purgatorys-backdoor-site-jyagglsly-waydeeeper.vercel.app)ㅤㅤㅤ  🧾[WEB3 PayPage](https://github.com/ttcchub/web3-ecom-cryptogateway)
-<br>
+🧦 [E-Store](https://purgatorys-backdoor-site-jyagglsly-waydeeeper.vercel.app)ㅤㅤㅤ  🧾[WEB3 PayPage](https://github.com/ttcchub/web3-ecom-cryptogateway) ㅤㅤㅤ  📚[TS BookShop Cart](https://bookishshop.netlify.app) <br>
 🎮 [Speed Game](https://public.bc.fi/s2200198/speedGame/)ㅤㅤㅤ 🐍 [Snake Game](https://public.bc.fi/s2200198/snake/)ㅤㅤㅤ 🍣 [Recipes Web App ](https://recipes-web-app-ten.vercel.app/)
 <br>
 ⚕️ [Insurance Calculator](https://public.bc.fi/s2200198/Insurance/)ㅤㅤㅤ 🍕[Pizza Cart Calculator](https://public.bc.fi/s2200198/pizza2/pizza.html)
