@@ -15,6 +15,8 @@ My Mini Projects:
 
 <b> <i> UPCOMMING:</i>  Advanced CSS Product Card | 3D Model with phisics | File share + Chat </b>
 <br>
+
+📦🏗️ WAREHOUSE MANAGEMENT (PHP + MySQL based)(https://github.com/ttcchub/ONLINE-INVENTORY-MANAGEMENT-SOFTWARE-V2-PHP)ㅤㅤㅤ  
 🧦 [E-Store + Stipe + Crypto ](https://white-gutta-ahudgu1dy-waydeeeper.vercel.app/)ㅤㅤㅤ  🧾[Crypto PayPage](https://github.com/ttcchub/web3-ecom-cryptogateway) ㅤㅤㅤ  📚[TS BookShop Cart](https://bookishshop.netlify.app) <br>
 🎮 [Speed Game](https://public.bc.fi/s2200198/speedGame/)ㅤㅤㅤ 🐍 [Snake Game](https://public.bc.fi/s2200198/snake/)ㅤㅤㅤ 🍣 [Recipes Web App ](https://recipes-web-app-ten.vercel.app/)
 <br>
