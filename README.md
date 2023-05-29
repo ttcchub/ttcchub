@@ -17,7 +17,7 @@ My Mini Projects:
 <br>
 
 📦🏗️ [WAREHOUSE MANAGEMENT](https://github.com/ttcchub/ONLINE-INVENTORY-MANAGEMENT-SOFTWARE-V2-PHP)(PHP + MySQL)ㅤㅤㅤ  
-🧦 [E-Store + Stipe + Crypto ](https://gutta-store-iofmx7nui-waydeeeper.vercel.app)ㅤㅤㅤ  🧾[Crypto PayPage](https://github.com/ttcchub/web3-ecom-cryptogateway) ㅤㅤㅤ  📚[BookShop Cart](https://bookishshop.netlify.app)(TypeScript)ㅤ <br>
+🧦 [E-Store](https://gutta-store-iofmx7nui-waydeeeper.vercel.app)(Stipe & Crypto Gateways)ㅤㅤㅤ  🧾[Crypto PayPage](https://github.com/ttcchub/web3-ecom-cryptogateway) ㅤㅤㅤ  📚[BookShop Cart](https://bookishshop.netlify.app)(TypeScript)ㅤ <br>
 🎮 [Speed Game](https://public.bc.fi/s2200198/speedGame/)ㅤㅤㅤ 🐍 [Snake Game](https://public.bc.fi/s2200198/snake/)ㅤㅤㅤ 🍣 [Recipes Web App ](https://recipes-web-app-ten.vercel.app/)
 <br>
 ⚕️ [Insurance Calculator](https://public.bc.fi/s2200198/Insurance/)ㅤㅤㅤ 🍕[Pizza Cart Calculator](https://public.bc.fi/s2200198/pizza2/pizza.html)
