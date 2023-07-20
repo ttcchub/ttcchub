@@ -1,19 +1,19 @@
-FRONT:    REACT JSX / TS / NextJS / ExpressJS / Stripe / Sanity 'ccc' / Ngrok 
+Junior Practical Experience based on Next stack of technologies:
+FRONT:    REACT JSX / TS / NextJS / ExpressJS / Stripe / Sanity GROQ - API's / Ngrok 
 <br>
 BACK:     MongoDB / MariaDB / PostgreSQL / AWS / Jenkins / Docker / SocketIO / WebHooks
 
 Cloud: Elastic Beanstalk / Cloud9 / CodePipeline / EC2
 <br>
-WEB3: HardHat 
+WEB3: HardHat / Solidity / Chainlink
 <br>
 Extra:  Bash / Raspberry Pi / Kali / Hak5 toys 
  
 
 [<img src='/iCloud.png' alt='website' top='5' height='25'>](https://bespokedesign.tumblr.com)ㅤㅤㅤㅤCloud lead to my Designs portfolio 
+At the moment anavaliable for public view , contact me via mailbox so I can share some of my designs: mailbox: theytheythey@yahoo.com
+Flash Projects: 
 
-My Mini Projects: 
-
-<b> <i> UPCOMMING:</i>  Advanced CSS Product Card | 3D Model with phisics | File share + Chat </b>
 <br>
 
 📦🏗️ [WAREHOUSE MANAGEMENT](https://github.com/ttcchub/ONLINE-INVENTORY-MANAGEMENT-SOFTWARE-V2-PHP)(PHP + MySQL)ㅤㅤㅤ  
