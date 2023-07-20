@@ -15,7 +15,15 @@ Extra:  Bash / Raspberry Pi / Kali / Hak5 toys
 At the moment anavaliable for public view , contact me via mailbox so I can share some of my designs: mailbox: theytheythey@yahoo.com
 
 <br>
-Flash Projects: 
+BlockChain Based: 
+<br>
+
+🧑🏻‍💻 Pandora Network - Link Unavaliable
+🧑🏻‍💻 Smart Contracts - Link Unavaliable
+
+
+<br>
+Micro Service's: 
 <br>
 
 📦🏗️ [WAREHOUSE MANAGEMENT](https://github.com/ttcchub/ONLINE-INVENTORY-MANAGEMENT-SOFTWARE-V2-PHP)(PHP + MySQL)ㅤㅤㅤ  
