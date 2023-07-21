@@ -18,7 +18,11 @@ At the moment anavaliable for public view , contact me via mailbox so I can shar
 BlockChain Based: 
 <br>
 
-🧑🏻‍💻 Pandora Network - Link Unavaliable
+🧾[Crypto PayPage](https://github.com/ttcchub/web3-ecom-cryptogateway)
+<br> 
+💱 UniSwap - Link Unavaliable
+<br>
+🧑🏻‍💻 Pandora Platform - Link Unavaliable
 <br>
 📑 Smart Contracts - Link Unavaliable
 
@@ -30,7 +34,7 @@ Micro Service's:
 📦🏗️ [WAREHOUSE MANAGEMENT](https://github.com/ttcchub/ONLINE-INVENTORY-MANAGEMENT-SOFTWARE-V2-PHP)(PHP + MySQL)ㅤㅤㅤ  
 🎛️[ERP OS Pro](https://github.com/ttcchub/)( Warehouse + Cloud + E-Store )ㅤㅤㅤ  
 
-🧦 [E-Store](https://gutta-store-beryl.vercel.app/)( Stipe | PayPal | Crypto Gateways)ㅤㅤㅤ  🧾[Crypto PayPage](https://github.com/ttcchub/web3-ecom-cryptogateway) ㅤㅤㅤ  📚[BookShop Cart](https://bookishshop.netlify.app)(TypeScript)ㅤ <br>
+🧦 [E-Store](https://gutta-store-beryl.vercel.app/)( Stipe | PayPal | Crypto Gateways)ㅤㅤㅤ   ㅤㅤㅤ  📚[BookShop Cart](https://bookishshop.netlify.app)(TypeScript)ㅤ <br>
 🎮 [Speed Game](https://public.bc.fi/s2200198/speedGame/)ㅤㅤㅤ 🐍 [Snake Game](https://public.bc.fi/s2200198/snake/)ㅤㅤㅤ 🍣 [Recipes Web App ](https://recipes-web-app-ten.vercel.app/)
 <br>
 ⚕️ [Insurance Calculator](https://public.bc.fi/s2200198/Insurance/)ㅤㅤㅤ 🍕[Pizza Cart Calculator](https://public.bc.fi/s2200198/pizza2/pizza.html)
