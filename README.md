@@ -15,22 +15,20 @@ Extra:  Bash / Raspberry Pi / Kali / Hak5 toys
 At the moment anavaliable for public view , contact me via mailbox so I can share some of my designs: mailbox: theytheythey@yahoo.com
 
 <br>
-BlockChain Based: 
+BlockChain Based practices: 
 <br>
 
 🧾[Crypto PayPage](https://github.com/ttcchub/web3-ecom-cryptogateway)
 <br> 
 💱 UniSwap - Link Unavaliable
 <br>
-🧑🏻‍💻 Pandora Platform - Link Unavaliable
-<br>
-📑 Smart Contracts - Link Unavaliable
+📑 Smart Contracts Basics - Link Unavaliable
 <br>
 🔄 Escrow Delivery contract- Link Unavaliable (practicing: TimeLocks)
 <br>
 🗝️Multi-Sig Wallet - Link Unavaliable
 <br>
-
+🦊MetaMask clone 
 
 
 
