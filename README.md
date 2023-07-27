@@ -1,7 +1,7 @@
 Junior Practical Experience based on Next stack of technologies:
 FRONT:    REACT JSX / TS / NextJS / ExpressJS / Stripe / Sanity GROQ - API's / Ngrok 
 <br>
-BACK:     MongoDB / MariaDB / PostgreSQL / AWS / Jenkins / Docker / SocketIO / WebHooks
+BACK:     SQL / PostgreSQL / AWS / Jenkins / Docker / SocketIO / WebHooks practise / SupaBase with SQLight
 
 Cloud: Elastic Beanstalk / Cloud9 / CodePipeline / EC2
 <br>
