@@ -3,8 +3,8 @@
 JUNIOR Practical Experience based on the next stack of technologies:
 
 ```javascript
-const feolu = {
-    pronouns: "TTCC",
+const TTCC_Hub = {
+    pronouns: "TTCC Hub",
     code: ["Javascript", "Python", "DuckyScript"],
     askMeAbout: ["DEX", "SmartContract", "Crypto Trading", "Defi" , "Brand Building" , "SVG"],
     Full-Stack technologies: {
