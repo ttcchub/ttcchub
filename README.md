@@ -6,7 +6,7 @@ JUNIOR | Practical Experience based on the next stack of technologies:
 const TTCC_Hub = {
     pronouns: "TTCC Hub",
     code: ["Javascript", "Python", "DuckyScript"],
-    askMeAbout: ["DEX", "SmartContract", "Crypto Trading", "Defi" , "Brand Building" , "SVG"],
+    askMeAbout: ["DEX", "SmartContract", "Crypto Trading", "Defi" , "Brand Building" , "SVG", "Design"],
     Full-Stack technologies: {
         SmartContract: ["Solidity", "HardHat"],
         Front: {
@@ -28,7 +28,8 @@ const TTCC_Hub = {
 };
 ```
 
-✨[<img src='/iCloud.png' alt='website' top='5' height='25'>](https://bespokedesign.tumblr.com)🌙ㅤㅤㅤCloud lead to my Designs portfolio 
+✨[<img src='/iCloud.png' alt='website' top='5' height='25'>](theytheythey@yahoo.com)🌙ㅤㅤㅤCloud lead to my Designs portfolio, request it throught the email.  
+
 <br>
 
 <br>
