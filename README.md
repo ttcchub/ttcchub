@@ -1,6 +1,6 @@
 
 
-JUNIOR Practical Experience based on the next stack of technologies:
+JUNIOR | Practical Experience based on the next stack of technologies:
 
 ```javascript
 const TTCC_Hub = {
