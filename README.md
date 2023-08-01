@@ -1,14 +1,32 @@
-Junior Practical Experience based on Next stack of technologies:
-FRONT:    REACT JSX / TS / NextJS / ExpressJS / Stripe / Sanity GROQ - API's / Ngrok 
-<br>
-BACK:     SQL / PostgreSQL / AWS / Jenkins / Docker / SocketIO / WebHooks practise / SupaBase with SQLight
 
-Cloud: Elastic Beanstalk / Cloud9 / CodePipeline / EC2
-<br>
-WEB3: HardHat / Solidity / Chainlink
-<br>
-Extra:  Bash / Raspberry Pi / Kali / Hak5 toys 
- 
+
+JUNIOR Practical Experience based on the next stack of technologies:
+
+```javascript
+const feolu = {
+    pronouns: "TTCC",
+    code: ["Javascript", "Python", "DuckyScript"],
+    askMeAbout: ["DEX", "SmartContract", "Crypto Trading", "Defi" , "Brand Building" , "SVG"],
+    Full-Stack technologies: {
+        SmartContract: ["Solidity", "HardHat"],
+        Front: {
+            js: ["React-native", "NextJS", "ReactJS"],
+            css: ["Tailwind Css",  "Bootstrap" , "SVG"]
+        },
+        Back: {
+            js: ["node" , "SocketIO (practising)" , "WebHooks (practising)" ],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Docker🐳", "EC2", "Elastic Beanstalk" , "Cloud9" , "CodePipeline", "Stripe" , "PayPal" ],
+        databases: ["Mongo", "Postgres" , "Vercel DB" , "Sanity GROQ" ],
+        misc: ["Firebase"],
+        Extra (interests): ["Bash", "Raspberry Pi" ,"Kali", "Hak5 toys"]
+
+    },
+    architecture: ["Progressive web-app's", "Single page applications"],
+    currentProject: "I am concentrating on Logic of Smart Contract for DEX Web-App marketplace",
+};
+```
 
 ✨[<img src='/iCloud.png' alt='website' top='5' height='25'>](https://bespokedesign.tumblr.com)🌙ㅤㅤㅤCloud lead to my Designs portfolio 
 <br>
