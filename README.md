@@ -46,9 +46,6 @@ Smart-Contracts practices:
 <br>
 🗝️Multi-Sig Wallet - Link Unavaliable
 <br>
-🦊MetaMask clone 
-
-https://github.com/ttcchub/escrow-contract-shipping
 
 <br>
 Micro Service's: 
