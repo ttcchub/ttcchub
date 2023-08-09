@@ -38,11 +38,11 @@ Smart-Contracts practices:
 
 🧾[Crypto PayPage](https://github.com/ttcchub/web3-ecom-cryptogateway)
 <br> 
-💱 UniSwap - Link Unavaliable
+💱 [DEX SWAP - Classic Currency change-swap - (Private Link)](https://github.com/ttcchub/DEX_SWAP_BACK_1inch-protol)
 <br>
 📑 Smart Contracts Basics - Link Unavaliable
 <br>
-🔄 [Escrow Delivery contract- Link Unavaliable (practicing: TimeLocks)](https://github.com/ttcchub/escrow-contract-shipping)
+🔄 [Escrow Delivery contract - Timelocks & MultiSig (Private Link)](https://github.com/ttcchub/escrow-contract-shipping)
 <br>
 🗝️Multi-Sig Wallet - Link Unavaliable
 <br>
