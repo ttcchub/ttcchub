@@ -36,7 +36,7 @@ const TTCC_Hub = {
 <br>
 [Full Stack Open (Link)](https://fullstackopen.com/en/)
 <br>
-[Alchemy University (Link)](https://university.alchemy.com/home)
+[Alchemy University (Link)(https://university.alchemy.com/home) ]
 <br>
 <br>
 Smart-Contracts practices: 
