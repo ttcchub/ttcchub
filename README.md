@@ -25,8 +25,6 @@ const TTCC_Hub = {
     },
     architecture: ["Progressive web-app's", "Single page applications"],
     currentProject: "I am concentrating on Logic of Smart Contract for DEX Web-App marketplace",
-    Knowledge base: [Full Stack Open](https://fullstackopen.com/en/) , [Alchemy University](https://university.alchemy.com/home)
-
 
 };
 ```
@@ -34,7 +32,7 @@ const TTCC_Hub = {
 ✨ [<img src='/iCloud.png' alt='website' top='5' height='25'>](https://bespokedesign.tumblr.com/) 🌙ㅤㅤㅤCloud lead to my Designs portfolio
 
 <br>
-
+    Knowledge base: [Full Stack Open](https://fullstackopen.com/en/) , [Alchemy University](https://university.alchemy.com/home)
 <br>
 Smart-Contracts practices: 
 <br>
