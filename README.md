@@ -32,7 +32,11 @@ const TTCC_Hub = {
 ✨ [<img src='/iCloud.png' alt='website' top='5' height='25'>](https://bespokedesign.tumblr.com/) 🌙ㅤㅤㅤCloud lead to my Designs portfolio
 
 <br>
-    Knowledge base Funadamentals: [Full Stack Open](https://fullstackopen.com/en/) , [Alchemy University](https://university.alchemy.com/home)
+    Knowledge base Funadamentals
+<br>
+[Full Stack Open](https://fullstackopen.com/en/) 
+<br> 
+[Alchemy University](https://university.alchemy.com/home)
 <br>
 <br>
 Smart-Contracts practices: 
