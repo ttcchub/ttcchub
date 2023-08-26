@@ -35,16 +35,16 @@ const TTCC_Hub = {
     Funadamentals Cources 
 <br>
 
-[UofH ECTS - FullStack Open](https://fullstackopen.com/en/)
+[UofH ECTS - FullStack Open]
 <br>
-[Alchemy University](https://university.alchemy.com/home)
+[Alchemy University]
 <br>
 <br>
 Smart-Contracts practices: 
 <br>
 
-🧾[Crypto PayPage](https://github.com/ttcchub/web3-ecom-cryptogateway)
-🧾[Crypto PayPage](https://github.com/ttcchub/web3-ecom-cryptogateway)
+
+🧾[Crypto PayPage](https://web3-paypage-dist.vercel.app/)
 <br> 
 💱 [DEX SWAP - Classic Currency change-swap - (Private Link)](https://github.com/ttcchub/DEX_SWAP_BACK_1inch-protol)
 <br>
@@ -60,9 +60,9 @@ Micro Service's:
 <br>
 
 📦🏗️ [WAREHOUSE MANAGEMENT](https://github.com/ttcchub/ONLINE-INVENTORY-MANAGEMENT-SOFTWARE-V2-PHP)(PHP + MySQL)ㅤㅤㅤ  
-🎛️[ERP OS Pro](https://github.com/ttcchub/)( Warehouse + Cloud + E-Store )ㅤㅤㅤ  
+🎛️[ERP OS Pro](https://erp-os-pro-front.vercel.app/auth/login)( Warehouse + Cloud + E-Store )ㅤㅤㅤ  
 
-🧦 [E-Store](https://gutta-store-sigma.vercel.app/)( Stipe | PayPal | Crypto Gateway)ㅤㅤㅤ   ㅤㅤㅤ  📚[BookShop Cart](https://bookishshop.netlify.app)(TypeScript)ㅤ <br>
+🧦 [E-Store](https://xes-store-sigma.vercel.app/)( Stipe | PayPal | Crypto Gateway)ㅤㅤㅤ   ㅤㅤㅤ  📚[BookShop Cart](https://bookishshop.netlify.app)(TypeScript)ㅤ <br>
 🎮 [Speed Game](https://public.bc.fi/s2200198/speedGame/)ㅤㅤㅤ 🐍 [Snake Game](https://public.bc.fi/s2200198/snake/)ㅤㅤㅤ 🍣 [Recipes Web App ](https://recipes-web-app-ten.vercel.app/)
 <br>
 ⚕️ [Insurance Calculator](https://public.bc.fi/s2200198/Insurance/)ㅤㅤㅤ 🍕[Pizza Cart Calculator](https://public.bc.fi/s2200198/pizza2/pizza.html)
