@@ -22,9 +22,8 @@ const TTCC_Hub = {
         misc: ["Firebase"],
         Extra (interests): ["Bash", "Raspberry Pi" ,"Kali", "Hak5 toys"]
 
-    },
-    architecture: ["Progressive web-app's", "Single page applications"],
-    currentProject: "I am concentrating on Logic of Smart Contract for DEX Web-App marketplace",
+    }
+    Current Project: "I am concentrating on Logic of Smart Contract for DEX Web-App marketplace",
 
 };
 ```
