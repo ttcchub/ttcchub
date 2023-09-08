@@ -43,6 +43,8 @@ Smart-Contracts practices:
 <br>
 
 
+🧑🏻‍💻[WaitList Page](https://maywap.webflow.io/)
+<br>
 🧾[Crypto PayPage](https://web3-paypage-dist.vercel.app/)
 <br> 
 💱 [DEX SWAP - Classic Currency change-swap - (Private Link)](https://github.com/ttcchub/DEX_SWAP_BACK_1inch-protol)
