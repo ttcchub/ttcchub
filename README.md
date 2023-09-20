@@ -28,7 +28,7 @@ const TTCC_Hub = {
 };
 ```
 
-✨ [<img src='/iCloud.png' alt='website' top='5' height='25'>](https://bespokedesign.tumblr.com/) 🌙ㅤㅤㅤCloud lead to my Designs portfolio
+✨ [<img src='/iCloud.png' alt='website' top='5' height='25'>](https://www.linkedin.com/in/niki-lyudikaynen-698948224/) 🌙ㅤㅤㅤCloud lead to my LinkedIn with Designs posts
 
 <br>
     Funadamentals Cources 
