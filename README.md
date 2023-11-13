@@ -1,76 +1,29 @@
 
-
-JUNIOR | Practical Experience based on the next stack of technologies:
-
 ```javascript
 const TTCC_Hub = {
-    pronouns: "TTCC Hub",
-    code: ["Javascript", "Python", "DuckyScript"],
-    askMeAbout: ["DEX", "SmartContract", "Crypto Trading", "Defi" , "Brand Building" , "SVG", "Design"],
-    Full-Stack technologies: {
-        SmartContract: ["Solidity", "HardHat"],
+    pronouns: "TTCC",
+    code: ["Javascript", "Python", "Ducky"],
+    askMeAbout: ["Defi" , "Design"],
+    Full-Stack: {
+        S-Contracts: ["Solidity"],
         Front: {
-            js: ["React-native", "NextJS", "ReactJS"],
-            css: ["Tailwind Css",  "Bootstrap" , "SVG"]
+            js: ["ReactJS", "NextJS", "ExpressJS"],
+            css: ["Direct SVG"]
         },
         Back: {
-            js: ["node" , "SocketIO (practising)" , "WebHooks (practising)" ],
+            js: ["nodeJs"],
             python: ["flask"]
         },
-        devOps: ["AWS", "Docker🐳", "EC2", "Elastic Beanstalk" , "Cloud9" , "CodePipeline", "Stripe" , "PayPal" ],
-        databases: ["Mongo", "Postgres" , "Vercel DB" , "Sanity GROQ" ],
-        misc: ["Firebase"],
-        Extra (interests): ["Bash", "Raspberry Pi" ,"Kali", "Hak5 toys"]
+        devOps: ["AWS", "Docker🐳"],
+        databases: [ "Postgres" ],
+        misc: ["Firebase or Mongo"],
+        Extra (interests): ["Bash"]
 
     }
-    Current Project: "I am concentrating on Logic of Smart Contract for DEX Web-App marketplace",
+    Current Status: "I am concentrating on Logic"
 
 };
 ```
-
-✨ [<img src='/iCloud.png' alt='website' top='5' height='25'>](https://www.linkedin.com/in/niki-lyudikaynen-698948224/) 🌙ㅤㅤㅤCloud lead to my LinkedIn with Designs posts
-
-<br>
-    Funadamentals Cources 
-<br>
-
-[UofH ECTS - FullStack Open]
-<br>
-[Alchemy University]
-<br>
-<br>
-Smart-Contracts practices: 
-<br>
-
-
-🧑🏻‍💻[WaitList Page](https://maywap.webflow.io/)
-<br>
-🧾[Crypto PayPage](https://web3-paypage-dist.vercel.app/)
-<br> 
-💱 [DEX SWAP - Classic Currency change-swap - (Private Link)](https://github.com/ttcchub/DEX_SWAP_BACK_1inch-protol)
-<br>
-📑 Smart Contracts Basics - Link Unavaliable
-<br>
-🔄 [Escrow Delivery contract - Timelocks & MultiSig (Private Link)](https://github.com/ttcchub/escrow-contract-shipping)
-<br>
-🗝️Multi-Sig Wallet - Link Unavaliable
-<br>
-
-<br>
-Micro Service's: 
-<br>
-
-📦🏗️ [WAREHOUSE MANAGEMENT](https://github.com/ttcchub/ONLINE-INVENTORY-MANAGEMENT-SOFTWARE-V2-PHP)(PHP + MySQL)ㅤㅤㅤ  
-🎛️[ERP OS Pro](https://erp-os-pro-front.vercel.app/auth/login)( Warehouse + Cloud + E-Store )ㅤㅤㅤ  
-
-🧦 [E-Store](https://xes-store-sigma.vercel.app/)( Stipe | PayPal | Crypto Gateway)ㅤㅤㅤ   ㅤㅤㅤ  📚[BookShop Cart](https://bookishshop.netlify.app)(TypeScript)ㅤ <br>
-🎮 [Speed Game](https://public.bc.fi/s2200198/speedGame/)ㅤㅤㅤ 🐍 [Snake Game](https://public.bc.fi/s2200198/snake/)ㅤㅤㅤ 🍣 [Recipes Web App ](https://recipes-web-app-ten.vercel.app/)
-<br>
-⚕️ [Insurance Calculator](https://public.bc.fi/s2200198/Insurance/)ㅤㅤㅤ 🍕[Pizza Cart Calculator](https://public.bc.fi/s2200198/pizza2/pizza.html)
-<br>
-🏎️ [Car Data collector ](https://public.bc.fi/s2200198/carDb/)ㅤㅤㅤ 🎛️ [RBAC PANEL](https://github.com/ttcchub/RBAC---panel/tree/main/RBAC)ㅤㅤㅤ 🩻 [Global Health Center + Live Chat](https://github.com/ttcchub/health--recontr)ㅤㅤㅤ 🐦 [Twitter Clone (JS + NODE)](https://github.com/ttcchub/Twitter-Clone)
-
-
 
 <br>
 
