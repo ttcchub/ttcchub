@@ -19,7 +19,7 @@ const TTCC_Hub = {
         Extra (interests): ["Bash"]
 
     }
-    Current Status: "I am concentrating on Logic of"
+    Current Status: "I am concentrating on Logic behind architecture"
 
 };
 ```
