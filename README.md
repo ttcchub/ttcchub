@@ -6,7 +6,7 @@ const TTCC_Hub = {
     code: ["Javascript", "Python", "Ducky"],
     askMeAbout: ["Defi" , "Design"],
     Full-Stack: {
-        S-Contracts: ["Solidity"],
+        Smart-Contracts: ["Solidity", "HardHat"],
         Front: {
             js: ["ReactJS", "NextJS", "ExpressJS"], ["Direct SVG", "Liquid"]
         },
@@ -21,6 +21,8 @@ const TTCC_Hub = {
 
     }
     Current Status: "I am concentrating on Logic behind architecture"
+    For UX & UI Designs send an officical letter via next email: [ lyudikaynen@yahoo.com ]
+
 
 Some Projects:
 Speed Game: [https://clever-hamster-650786.netlify.app]
