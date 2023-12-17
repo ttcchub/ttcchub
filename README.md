@@ -21,11 +21,12 @@ const TTCC_Hub = {
     }
     Current Status: "I am concentrating on Logic behind architecture"
 
-};
-```
 Some Projects:
 Speed Game: [https://clever-hamster-650786.netlify.app]
 Store: [https://sky-stride.com]
+Protocol: [http://92.255.77.197:3084/]
+};
+```
 
 
 <br>
