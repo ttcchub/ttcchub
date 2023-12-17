@@ -23,11 +23,10 @@ const TTCC_Hub = {
     Current Status: "I am concentrating on Logic behind architecture"
     For UX & UI Designs send an officical letter via next email:  lyudikaynen@yahoo.com 
 
-
-Some Projects:
-Speed Game: [https://clever-hamster-650786.netlify.app]
-Store: [https://sky-stride.com]
-Protocol: [http://92.255.77.197:3084/]
+    Some Projects:
+    Speed Game: [https://clever-hamster-650786.netlify.app];
+    Store: [https://sky-stride.com];
+    Protocol: [http://92.255.77.197:3084/];
 };
 ```
 
