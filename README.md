@@ -17,7 +17,12 @@ const TTCC_Hub = {
         devOps: ["AWS", "Docker🐳"],
         databases: [ "Postgres" , "SupaBase"],
         misc: ["Firebase or Mongo"],
-        Extra (interests): ["Bash"]
+        extra: ["Bash","Linux"],
+
+        #Recentrly began my Studies and Research at:
+        Studies:{
+            ML: ["TensorFlowJS", "Keras", "PyTorch"],
+        },
 
     }
     Current Status: "I am concentrating on Logic behind architecture"
