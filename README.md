@@ -21,7 +21,7 @@ const TTCC_Hub = {
 
     }
     Current Status: "I am concentrating on Logic behind architecture"
-    For UX & UI Designs send an officical letter via next email: <b> lyudikaynen@yahoo.com </b>
+    For UX & UI Designs send an officical letter via next email:  lyudikaynen@yahoo.com 
 
 
 Some Projects:
