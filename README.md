@@ -7,20 +7,19 @@ const TTCC_Hub = {
     Full-Stack: {
         S-Contracts: ["Solidity"],
         Front: {
-            js: ["ReactJS", "NextJS", "ExpressJS"],
-            css: ["Direct SVG"]
+            js: ["ReactJS", "NextJS", "ExpressJS"], ["Direct SVG", "Liquid"]
         },
         Back: {
-            js: ["nodeJs"],
+            js: ["NodeJs"],
             python: ["flask"]
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: [ "Postgres" ],
+        databases: [ "Postgres" , "SupaBase"],
         misc: ["Firebase or Mongo"],
         Extra (interests): ["Bash"]
 
     }
-    Current Status: "I am concentrating on Logic"
+    Current Status: "I am concentrating on Logic of"
 
 };
 ```
