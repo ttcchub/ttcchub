@@ -21,7 +21,7 @@ const TTCC_Hub = {
 
         // Recentrly began my Studies and Research at:
         Studies:{
-            ML: ["TensorFlowJS", "Keras", "PyTorch"],
+            ML: ["TensorFlowJS", "Keras"],
         },
 
     }
