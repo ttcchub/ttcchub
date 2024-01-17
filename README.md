@@ -19,9 +19,9 @@ const TTCC_Hub = {
         misc: ["Firebase or Mongo"],
         extra: ["Bash","Linux"],
 
-        // Recentrly began my Studies and Research at:
-        Studies:{
-            ML: ["TensorFlowJS", "Keras"],
+        // Recentrly began my Studies and Research of Machine Learning:
+        Machine Learning:{
+            Neural network: ["TensorFlowJS", "Keras"],
         },
 
     }
