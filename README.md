@@ -1,32 +1,38 @@
 Design & Code
 
 ```javascript
-const TTCC_Hub = {
-    pronouns: "TTCC",
+const TTCC = {
+    pronouns: "TT-CC",
     code: ["Javascript", "Python", "Ducky"],
-    askMeAbout: ["Defi" , "Design"],
+    askMeAbout: ["Defi" , "Product-Design" , "ML" ],
+
     Full-Stack: {
-        Smart-Contracts: ["Solidity", "HardHat"],
         Front: {
             js: ["ReactJS", "NextJS", "ExpressJS"], ["Direct SVG", "Liquid"]
         },
         Back: {
-            js: ["NodeJs"],
-            python: ["flask"]
+            js: ["NodeJs", "Exrpess"],
+            python: ["flask", "numpy", "pytorch" ]
         },
-        devOps: ["AWS", "Docker🐳"],
-        databases: [ "Postgres" , "SupaBase"],
-        misc: ["Firebase or Mongo"],
-        extra: ["Bash","Linux"],
 
-        // Recentrly began my Studies and Research of Machine Learning:
-        Machine Learning:{
+        Misc: {
+            Smart-Contracts: ["Solidity", "HardHat"],
+            DevOps: ["AWS", "Docker"],
+            Databases: [ "Postgres" , "SupaBase", "Mongo" ,],
+            OS: ["Linux fan"],
+        },
+    },
+
+    ///// -------------------------------  /////
+
+    Machine Learning:{
             Neural network: ["TensorFlowJS", "Keras"],
-        },
+        }
 
-    }
-    Current Status: "I am concentrating on Logic behind architecture"
-    For UX & UI Designs send an officical letter via next email:  lyudikaynen@yahoo.com 
+    ///// -------------------------------  ///// 
+    
+    Current Status: "I am concentrating on Logic behind architecture for matching algorythms of"
+    For UX & UI Designs & Interface protottyping send an officical letter via next email:  lyudikaynen@yahoo.com 
 
     Some Projects:
     Speed Game: [https://clever-hamster-650786.netlify.app];
