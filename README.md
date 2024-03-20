@@ -35,7 +35,7 @@ const TTCC = {
     For UX & UI Designs & Interface protottyping send an officical letter via next email:  lyudikaynen@yahoo.com 
 
     Some Projects:
-    Speed Game: [https://clever-hamster-650786.netlify.app];
+    Speed Game: [https://speed-game-rouge.vercel.app/];
     Store: [https://sky-stride.com];
     Protocol: [http://92.255.77.197:3084/];
 };
