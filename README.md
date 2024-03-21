@@ -18,7 +18,7 @@ const TTCC = {
         Misc: {
             Smart-Contracts: ["Solidity", "HardHat"],
             DevOps: ["AWS", "Docker"],
-            Databases: [ "Postgres" , "SupaBase", "Mongo" ,],
+            Databases: ["Postgres" , "SupaBase", "Mongo"],
             OS: ["Linux fan"],
         },
     },
@@ -26,7 +26,7 @@ const TTCC = {
     ///// -------------------------------  /////
 
     Machine Learning:{
-            Neural network: ["TensorFlowJS", "Keras"],
+            Neural network: ["TensorFlowJS", "Keras", "PyTorch", "Pandas"],
         }
 
     ///// -------------------------------  ///// 
