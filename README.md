@@ -31,8 +31,7 @@ const TTCC = {
 
     ///// -------------------------------  ///// 
     
-    Current Status: "I am concentrating on Logic behind architecture for matching algorythms of"
-    For UX & UI Designs & Interface protottyping send an officical letter via next email:  lyudikaynen@yahoo.com 
+    Current Status: "I am concentrating on Logic behind architecture for matching algorythms"
 
     Some Projects:
     Speed Game: [https://speed-game-rouge.vercel.app/];
