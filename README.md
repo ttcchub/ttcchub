@@ -33,12 +33,15 @@ const TTCC = {
     
     Current Status: "I am concentrating on Logic behind architecture for matching algorythms"
 
-    Recent Projects: {
+    RecentProjects: {
         Speed Game: [https://speed-game-rouge.vercel.app/];
         Sport Store: [https://sky-stride.com];
         Swap Center: [https://maywap.pro/];
         Art Gallery: [https://agni.gallery/];
         Protocol: [http://92.255.77.197:3084/];
+    }
+    DeploymentMl: {
+        Test-1: [![Lint Workflow](https://github.com/ttcchub/ML_Models_Deployment/actions/workflows/lint.yml/badge.svg)](https://github.com/ttcchub/ML_Models_Deployment/actions/workflows/lint.yml)
     }
 
 };
