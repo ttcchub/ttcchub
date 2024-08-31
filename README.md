@@ -41,7 +41,7 @@ const TTCC = {
         Protocol: [http://92.255.77.197:3084/];
     }
     DeploymentMl: {
-        Test-1: [![Lint Workflow](https://github.com/ttcchub/ML_Models_Deployment/actions/workflows/lint.yml/badge.svg)](https://github.com/ttcchub/ML_Models_Deployment/actions/workflows/lint.yml)
+
     }
 
 };
