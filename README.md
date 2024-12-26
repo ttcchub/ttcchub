@@ -1,38 +1,54 @@
+Design & Code
+
+```javascript
 const TTCC = {
     pronouns: "TT-CC",
     code: ["Javascript", "Python", "Ducky"],
-    askMeAbout: ["Defi", "Product-Design", "ML"],
+    askMeAbout: ["Defi" , "Product-Design" , "ML" ],
 
-    FullStack: {
+    Full-Stack: {
         Front: {
-            js: ["ReactJS", "NextJS", "ExpressJS"],
-            other: ["Direct SVG", "Liquid"]
+            js: ["ReactJS", "NextJS", "ExpressJS"], ["Direct SVG", "Liquid"]
         },
         Back: {
-            js: ["NodeJS", "Express"],
-            python: ["Flask", "Numpy", "PyTorch"]
+            js: ["NodeJs", "Exrpess"],
+            python: ["flask", "numpy", "pytorch" ]
         },
+
         Misc: {
-            SmartContracts: ["Solidity", "HardHat"],
+            Smart-Contracts: ["Solidity", "HardHat"],
             DevOps: ["AWS", "Docker"],
-            Databases: ["Postgres", "Supabase", "Mongo"],
-            OS: ["Linux fan"]
+            Databases: ["Postgres" , "SupaBase", "Mongo"],
+            OS: ["Linux fan"],
+        },
+    },
+
+    ///// -------------------------------  /////
+
+    Machine Learning:{
+            Neural network: ["TensorFlowJS", "Keras", "PyTorch", "Pandas"],
         }
-    },
 
-    MachineLearning: {
-        NeuralNetwork: ["TensorFlowJS", "Keras", "PyTorch", "Pandas"]
-    },
-
-    CurrentStatus: "I am concentrating on logic behind architecture for matching algorithms",
+    ///// -------------------------------  ///// 
+    
+    Current Status: "I am concentrating on Logic behind architecture for matching algorythms"
 
     RecentProjects: {
-        SpeedGame: "https://speed-game-rouge.vercel.app/",
-        SportStore: "https://sky-stride.com",
-        SwapCenter: "https://maywap.pro/",
-        ArtGallery: "https://agni.gallery/",
-        Protocol: "http://92.255.77.197:3084/"
-    },
+        Speed Game: [https://speed-game-rouge.vercel.app/];
+        Sport Store: [https://sky-stride.com];
+        Swap Center: [https://maywap.pro/];
+        Art Gallery: [https://agni.gallery/];
+        Protocol: [http://92.255.77.197:3084/];
+    }
+    DeploymentMl: {
 
-    DeploymentML: {}
+    }
+
 };
+```
+
+
+<br>
+
+
+![1](https://user-images.githubusercontent.com/79540594/214652998-066f2341-5b57-46b4-ad52-4c810717510a.jpg)
