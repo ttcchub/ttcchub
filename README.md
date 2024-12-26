@@ -1,55 +1,60 @@
-Design & Code
+# TTCC's Portfolio
 
-```javascript
-const TTCC = {
-    pronouns: "TT-CC",
-    code: ["Javascript", "Python", "Ducky"],
-    askMeAbout: ["Defi" , "Product-Design" , "ML" ],
+TTCC is a full-stack developer and machine learning enthusiast specializing in decentralized finance (DeFi), product design, and innovative matching algorithms.
 
-    Full-Stack: {
-        Front: {
-            js: ["ReactJS", "NextJS", "ExpressJS"], ["Direct SVG", "Liquid"]
-        },
-        Back: {
-            js: ["NodeJs", "Exrpess"],
-            python: ["flask", "numpy", "pytorch" ]
-        },
+---
 
-        Misc: {
-            Smart-Contracts: ["Solidity", "HardHat"],
-            DevOps: ["AWS", "Docker"],
-            Databases: ["Postgres" , "SupaBase", "Mongo"],
-            OS: ["Linux fan"],
-        },
-    },
+## Pronouns
+**TT-CC**
 
-    ///// -------------------------------  /////
+---
 
-    Machine Learning:{
-            Neural network: ["TensorFlowJS", "Keras", "PyTorch", "Pandas"],
-        }
+## Code Expertise
+- **Languages:** JavaScript, Python, Ducky
+- **Topics:** DeFi, Product Design, Machine Learning (ML)
 
-    ///// -------------------------------  ///// 
-    
-    Current Status: "I am concentrating on Logic behind architecture for matching algorythms"
+---
 
-    RecentProjects: {
-        Speed Game: [https://speed-game-rouge.vercel.app/];
-        Sport Store: [https://sky-stride.com];
-        Swap Center: [https://maywap.pro/];
-        Art Gallery: [https://agni.gallery/];
-        Protocol: [http://92.255.77.197:3084/];
-    }
-    DeploymentMl: {
+## Full-Stack Skills
+### Frontend
+- JavaScript: `ReactJS`, `NextJS`, `ExpressJS`
+- Other: `Direct SVG`, `Liquid`
 
-    }
+### Backend
+- JavaScript: `NodeJS`, `Express`
+- Python: `Flask`, `Numpy`, `PyTorch`
 
-};
-```
+### Miscellaneous
+- **Smart Contracts:** `Solidity`, `HardHat`
+- **DevOps:** `AWS`, `Docker`
+- **Databases:** `Postgres`, `Supabase`, `MongoDB`
+- **OS:** Linux enthusiast
 
+---
 
-<br>
+## Machine Learning Skills
+- **Neural Networks:** `TensorFlowJS`, `Keras`, `PyTorch`, `Pandas`
 
+---
 
-![1](https://user-images.githubusercontent.com/79540594/214652998-066f2341-5b57-46b4-ad52-4c810717510a.jpg)
+## Current Focus
+> I am concentrating on logic behind architecture for matching algorithms.
 
+---
+
+## Recent Projects
+- [Speed Game](https://speed-game-rouge.vercel.app/)
+- [Sport Store](https://sky-stride.com)
+- [Swap Center](https://maywap.pro/)
+- [Art Gallery](https://agni.gallery/)
+- [Protocol](http://92.255.77.197:3084/)
+
+---
+
+## Deployment for Machine Learning
+_TBD_
+
+---
+
+## About
+TTCC combines expertise in coding, machine learning, and product design to craft powerful, user-focused solutions. Currently, TTCC is delving into the intricacies of matching algorithms to enhance predictive accuracy and user experience in complex systems.
