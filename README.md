@@ -1,49 +1,35 @@
 Design & Code
 
 ```javascript
-const TTCC = {
-    pronouns: "TT-CC",
-    code: ["Javascript", "Python", "Ducky"],
-    askMeAbout: ["Defi" , "Product-Design" , "ML" ],
 
-    Full-Stack: {
+const TTCCHUB = {
+    Username: "TT-CC-HUB",
+    code: ["JavaScript", "TypeScript", "Python", "Ducky"],
+    askMeAbout: ["Defi", "Product-Design", "ML"],
+
+    FullStack: {
         Front: {
-            js: ["ReactJS", "NextJS", "ExpressJS"], ["Direct SVG", "Liquid"]
+            js: ["ReactJS", "NextJS", "ExpressJS"],
+            other: ["Direct SVG", "Liquid"]
         },
         Back: {
-            js: ["NodeJs", "Exrpess"],
-            python: ["flask", "numpy", "pytorch" ]
+            js: ["NodeJS", "ExpressJS"],
+            python: ["Flask", "Numpy", "PyTorch"]
         },
-
         Misc: {
-            Smart-Contracts: ["Solidity", "HardHat"],
-            DevOps: ["AWS", "Docker"],
-            Databases: ["Postgres" , "SupaBase", "Mongo"],
-            OS: ["Linux fan"],
-        },
+            SmartContracts: ["Solidity", "HardHat"],
+            forDevOps: ["AWS", "Docker"],
+            Databases: ["Postgres", "Supabase", "MongoDB"],
+            OS: ["Linux"]
+        }
     },
 
-    ///// -------------------------------  /////
+    MachineLearning: {
+        Tools: ["TensorFlowJS", "Keras", "PyTorch", "Pandas", "NumPy"],
+    },
 
-    Machine Learning:{
-            Neural network: ["TensorFlowJS", "Keras", "PyTorch", "Pandas"],
-        }
-
-    ///// -------------------------------  ///// 
-    
-    Current Status: "I am concentrating on Logic behind architecture for matching algorythms"
-
-    RecentProjects: {
-        Speed Game: [https://speed-game-rouge.vercel.app/];
-        Sport Store: [https://sky-stride.com];
-        Swap Center: [https://maywap.pro/];
-        Art Gallery: [https://agni.gallery/];
-        Protocol: [http://92.255.77.197:3084/];
-    }
-    DeploymentMl: {
-
-    }
-
+    #CurrentStatus: "I am concentrating on algorithm logic behind architecture for matching procceess",
+    Deployments: {#coming_soon}
 };
 ```
 
