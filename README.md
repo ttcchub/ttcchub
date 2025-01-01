@@ -1,19 +1,17 @@
-Design & Code
 
 ```javascript
 
-const TTCCHUB = {
+const TT_CC_HUB = {
     Username: "TT-CC-HUB",
-    code: ["JavaScript", "TypeScript", "Python", "Ducky"],
-    askMeAbout: ["Defi", "Product-Design", "ML"],
+    code: ["JavaScript", "TypeScript", "Python"],
 
     FullStack: {
         Front: {
-            js: ["ReactJS", "NextJS", "ExpressJS"],
-            other: ["Direct SVG", "Liquid"]
+            js: ["ReactJS", "NextJS"],
+            other: ["Advanced SVG user", "bash"]
         },
         Back: {
-            js: ["NodeJS", "ExpressJS"],
+            js: ["NodeJS", "ExpressJS", "TypeScript"],
             python: ["Flask", "Numpy", "PyTorch"]
         },
         Misc: {
@@ -25,11 +23,8 @@ const TTCCHUB = {
     },
 
     MachineLearning: {
-        Tools: ["TensorFlowJS", "Keras", "PyTorch", "Pandas", "NumPy"],
+        Libs: ["TensorFlowJS", "Keras", "PyTorch", "Pandas", "NumPy"],
     },
-
-    #CurrentStatus: "I am concentrating on algorithm logic behind architecture for matching procceess",
-    Deployments: {#coming_soon}
 };
 ```
 
@@ -37,4 +32,4 @@ const TTCCHUB = {
 <br>
 
 
-![1](https://user-images.githubusercontent.com/79540594/214652998-066f2341-5b57-46b4-ad52-4c810717510a.jpg)
+
