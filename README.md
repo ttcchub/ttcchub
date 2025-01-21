@@ -4,7 +4,6 @@
 const TT_CC_HUB = {
     Username: "TT-CC-HUB",
     code: ["JavaScript", "TypeScript", "Python"],
-
     FullStack: {
         Front: {
             js: ["ReactJS", "NextJS"],
@@ -21,7 +20,6 @@ const TT_CC_HUB = {
             OS: ["Linux"]
         }
     },
-
     MachineLearning: {
         Libs: ["TensorFlowJS", "Keras", "PyTorch", "Pandas", "NumPy"],
     },
