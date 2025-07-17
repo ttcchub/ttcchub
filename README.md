@@ -3,7 +3,12 @@
 
 const TT_CC_HUB = {
     Username: "TT-CC-HUB",
-    code: ["JavaScript", "TypeScript", "Python"],
+    Type: "Remote/Hybrid",
+    Contacts: {
+        Telegram: "@rofd_eyes",
+        Email: "rofdgroup@protonmail.com"
+    }
+    Skillset: ["JavaScript", "TypeScript(Basic)", "Python", "Rust(Basic)"],
     FullStack: {
         Front: {
             js: ["ReactJS", "NextJS"],
@@ -11,19 +16,20 @@ const TT_CC_HUB = {
         },
         Back: {
             js: ["NodeJS", "ExpressJS", "TypeScript"],
-            python: ["Flask", "Numpy", "PyTorch"]
+            python: ["Flask", "NumPy", "PyTorch"]
         },
-        Misc: {
-            SmartContracts: ["Solidity", "HardHat"],
+        Extra_Misc: {
+            Crypto: ["Solidity", "Hardhat", "ethers.js"],
             forDevOps: ["AWS", "Docker"],
             Databases: ["Postgres", "Supabase", "MongoDB"],
             OS: ["Linux"]
         }
     },
     MachineLearning: {
-        Libs: ["TensorFlowJS", "Keras", "PyTorch", "Pandas", "NumPy"],
-    },
+        Libs: ["TensorFlowJS", "Keras", "PyTorch", "Pandas", "NumPy"]
+    }
 };
+
 ```
 
 
