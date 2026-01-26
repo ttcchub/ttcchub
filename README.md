@@ -14,7 +14,7 @@ const TT_CC_HUB = {
         },
         Back: {
             js: ["NodeJS", "ExpressJS", "TypeScript"],
-            python: ["Flask", "NumPy", "PyTorch"]
+            python: ["Flask", "NumPy", "PyTorch", "TensorFlowJS", "Keras", "Pandas", "NumPy"]
         },
         Extra_Misc: {
             Crypto: ["Solidity", "Hardhat", "ethers.js"],
@@ -23,8 +23,8 @@ const TT_CC_HUB = {
             OS: ["Linux"]
         }
     },
-    MachineLearning: {
-        Libs: ["TensorFlowJS", "Keras", "PyTorch", "Pandas", "NumPy"]
+    Stydy: {
+        Rust: ["ZK", "Kioto"]
     }
 };
 
