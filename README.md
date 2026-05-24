@@ -6,7 +6,7 @@ const TT_CC_HUB = {
     Type: "Remote/Hybrid",
     Contacts: {
     }
-    Skillset: ["JavaScript", "TypeScript(Basic)", "Python", "Rust(Basic)"],
+    Skillset: ["JavaScript", "TypeScript", "Python", "Rust(Basic)"],
     FullStack: {
         Front: {
             js: ["ReactJS", "NextJS"],
@@ -17,14 +17,14 @@ const TT_CC_HUB = {
             python: ["Flask", "NumPy", "PyTorch", "TensorFlowJS", "Keras", "Pandas", "NumPy"]
         },
         Extra_Misc: {
-            Crypto: ["Solidity", "Hardhat", "ethers.js"],
-            forDevOps: ["AWS", "Docker"],
+            Crypto: ["Solidity", "Hardhat", "Anvil", "ethers.js"],
+            forDevOps: ["AWS", "Docker", "Jenkins"],
             Databases: ["Postgres", "Supabase", "MongoDB"],
             OS: ["Linux"]
         }
     },
-    Stydy: {
-        Rust: ["ZK", "Kioto"]
+    Study: {
+        Rust: ["ZKP", "Kioto"]
     }
 };
 
